@@ -24,20 +24,23 @@ Pet:
 - image (save as url)
 - cause
 - goal
+- user_id
 - **belongs_to :user** 
 - **has_many :donations**
 
 Donation:
 - amount
 - message
+- pet_id
+- user_id
 - **belongs_to :pet**
 - **belongs_to :user**
 
 Backend:
 - [x] Establish models & associations
 - [x] Create all model resources (rails g resource)
-- [ ] Create seed data
-- [ ] Test associations with seed data
+- [x] Create seed data
+- [x] Test associations with seed data
 - [ ] Build out Rails APIs
 - [x] Add serialize (Active Model Serializer)
 - [x] Add rack-cors gem
