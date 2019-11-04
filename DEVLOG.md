@@ -24,7 +24,7 @@ Pet:
 - image (save as url)
 - cause
 - goal
-- **belongs_to :owner** 
+- **belongs_to :user** 
 - **has_many :donations**
 
 Donation:
