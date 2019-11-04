@@ -13,7 +13,7 @@ Functionality (User stories):
 
 Models:
 User:
-- usernames
+- username
 - password_digest (bcrypt)
 - **has_many :pets** (e.g. pet the user owns)
 - **has_many :donations** (e.g. donations the user has made for another pet)
@@ -29,16 +29,19 @@ Pet:
 
 Donation:
 - amount
-- comment
+- message
 - **belongs_to :pet**
 - **belongs_to :user**
 
 Backend:
-- [ ] Establish models & associations
+- [x] Establish models & associations
+- [x] Create all model resources (rails g resource)
 - [ ] Create seed data
 - [ ] Test associations with seed data
 - [ ] Build out Rails APIs
-- [ ] Add serialize (Active Model Serializer)
+- [x] Add serialize (Active Model Serializer)
+- [x] Add rack-cors gem
+- [X] Add bcrypt gem
 
 Frontend:
 - [ ] Login form (class component)
