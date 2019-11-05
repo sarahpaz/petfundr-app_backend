@@ -49,4 +49,3 @@ Backend:
 Frontend:
 - [ ] Login form (class component)
 - [ ] Sign-up form (class component)
-- 
