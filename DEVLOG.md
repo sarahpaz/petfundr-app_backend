@@ -41,7 +41,7 @@ Backend:
 - [x] Create all model resources (rails g resource)
 - [x] Create seed data
 - [x] Test associations with seed data
-- [ ] Build out Rails APIs
+- [x] Build out Rails APIs
 - [x] Add serialize (Active Model Serializer)
 - [x] Add rack-cors gem
 - [X] Add bcrypt gem
@@ -49,3 +49,4 @@ Backend:
 Frontend:
 - [ ] Login form (class component)
 - [ ] Sign-up form (class component)
+- 
