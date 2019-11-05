@@ -1,3 +1,6 @@
 class UserSerializer < ActiveModel::Serializer
-  attributes :id, :username, :password
+	attributes :id, :username
+	
+	has_many :pets
+	has_many :donations
 end
