@@ -1,8 +1,6 @@
 # PetFundr: Dev Log
 ##  React App with Rails API backend
 ---
-### November 4, 2019
-
 Goals:
 Functionality (User stories):
 - Sign-up and Login
@@ -36,7 +34,7 @@ Donation:
 - **belongs_to :pet**
 - **belongs_to :user**
 
-Backend:
+### November 4, 2019
 - [x] Establish models & associations
 - [x] Create all model resources (rails g resource)
 - [x] Create seed data
@@ -46,6 +44,8 @@ Backend:
 - [x] Add rack-cors gem
 - [X] Add bcrypt gem
 
-Frontend:
-- [ ] Login form (class component)
-- [ ] Sign-up form (class component)
+### November 5, 2019
+- [ ] Login functionality / form 
+- [ ] Logout functionality 
+- [ ] Sign-up form / form
+- [ ] Set up routes (react-router) *3 minimum for requirements
