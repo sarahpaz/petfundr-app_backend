@@ -44,7 +44,7 @@ Donation:
 - [x] Add rack-cors gem
 - [X] Add bcrypt gem
 
-### November 5, 2019
+### November 6, 2019
 - [ ] Login functionality / form 
 - [ ] Logout functionality 
 - [ ] Sign-up form / form
