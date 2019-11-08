@@ -44,8 +44,11 @@ Donation:
 - [x] Add rack-cors gem
 - [X] Add bcrypt gem
 
-### November 6, 2019
+### November 6/7, 2019
 - [x] Login functionality / form 
-- [ ] Logout functionality 
-- [ ] Sign-up form / form
+- [x] Logout functionality 
+- [ ] Sign-up functionality / form
 - [ ] Set up routes (react-router) *3 minimum for requirements
+
+### November 8, 2019
+- [ ]
