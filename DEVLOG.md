@@ -51,6 +51,7 @@ Donation:
 - [x] Implement some basic styling
 
 ### November 8, 2019
+- [x] Navbar styling and functionality 
 - [ ] Sign-up functionality / form
 - [ ] Set up routes (react-router) *3 minimum for requirements
 - [ ] 
