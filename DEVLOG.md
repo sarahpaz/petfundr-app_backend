@@ -45,7 +45,7 @@ Donation:
 - [X] Add bcrypt gem
 
 ### November 6, 2019
-- [ ] Login functionality / form 
+- [x] Login functionality / form 
 - [ ] Logout functionality 
 - [ ] Sign-up form / form
 - [ ] Set up routes (react-router) *3 minimum for requirements
