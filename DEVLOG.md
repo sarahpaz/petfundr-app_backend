@@ -47,8 +47,10 @@ Donation:
 ### November 6/7, 2019
 - [x] Login functionality / form 
 - [x] Logout functionality 
-- [ ] Sign-up functionality / form
-- [ ] Set up routes (react-router) *3 minimum for requirements
+- [x] Add react-bootstrap
+- [x] Implement some basic styling
 
 ### November 8, 2019
-- [ ]
+- [ ] Sign-up functionality / form
+- [ ] Set up routes (react-router) *3 minimum for requirements
+- [ ] 
