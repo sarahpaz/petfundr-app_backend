@@ -1,11 +1,13 @@
 class Api::V1::PetsController < ApplicationController
 	def index
 		@pets = Pet.all
-		render json: @pets
+		pets_json = PetSerializer.new(@pets)
+		render json: pets_json
 	end
 
 	def show
 		@pet = Pet.find_by(id: params[:id])
-		render json: @pet
+		pet_json = PetSerializer.new(@pet)
+		render json: pet_json
 	end
 end
