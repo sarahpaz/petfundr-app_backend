@@ -14,11 +14,11 @@ class Api::V1::SessionsController < ApplicationController
 
 	def get_current_user
 		if logged_in?
-		curret_user_json = UserSerializer.new(current_user)
-		render json: current_user_json
+		user_json = UserSerializer.new(current_user)
+		render json: user_json
 		else
 			render json: {
-				error: "No one logged in"
+				error: "No logged in user"
 			}
 		end
 	end
