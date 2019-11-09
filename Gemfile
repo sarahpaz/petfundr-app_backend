@@ -41,4 +41,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Active Model Serializer
-gem 'active_model_serializers', '~> 0.10.7'
+# gem 'active_model_serializers', '~> 0.10.7'
+
+#Fast JSON API Serializer
+gem 'fast_jsonapi'
