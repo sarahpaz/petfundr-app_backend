@@ -52,6 +52,9 @@ Donation:
 
 ### November 8, 2019
 - [x] Navbar styling and functionality 
+- [x] Change serializer to FAST JSON API
+- [x] Set up serializer for each model
+- [x] Plan out UI
 - [ ] Sign-up functionality / form
 - [ ] Set up routes (react-router) *3 minimum for requirements
-- [ ] 
+
