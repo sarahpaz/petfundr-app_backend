@@ -55,6 +55,20 @@ Donation:
 - [x] Change serializer to FAST JSON API
 - [x] Set up serializer for each model
 - [x] Plan out UI
-- [ ] Sign-up functionality / form
-- [ ] Set up routes (react-router) *3 minimum for requirements
 
+### Nov 10, 2019
+- [x] Set up PetList and render PetCard
+- [x] Set up routes (react-router) *3 minimum for requirements
+
+### Nov 11, 2019
+- [ ] Sign-up functionality / form
+- [ ] User show page
+
+
+### Stretch Goals
+- [ ] About page
+  - [ ] Route
+  - [ ] Component
+- [ ] Donation functionality / Form
+
+ 
