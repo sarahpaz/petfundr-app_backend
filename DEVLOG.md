@@ -65,6 +65,7 @@ Donation:
 - [x] HomePage component / Logic to render HomePage if not logged in OR render PetList
 
 ### Nov 12, 2019
+- [ ] Replace pet images with realitic images
 - [ ] User show page
 - [ ] Pet show page
 - [ ] Final styling
