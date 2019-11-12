@@ -82,7 +82,7 @@ Donation:
 - [ ] User show page
 - [ ] Pet show page
 - [ ] Final styling
-- [ ] Complete README
+- [x] Complete README
 - [ ] Video walkthrough
 - [ ] Fix routes (Logout)
 
