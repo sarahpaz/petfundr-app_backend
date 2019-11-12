@@ -62,9 +62,14 @@ Donation:
 
 ### Nov 11, 2019
 - [x] Sign-up functionality / form
-- [ ] HomePage component / Logic to render HomePage if not logged in OR render PetList
-- [ ] User show page
+- [x] HomePage component / Logic to render HomePage if not logged in OR render PetList
 
+### Nov 12, 2019
+- [ ] User show page
+- [ ] Pet show page
+- [ ] Final styling
+- [ ] Complete README
+- [ ] Video walkthrough
 
 ### Stretch Goals
 - [ ] About page
