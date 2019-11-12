@@ -10,4 +10,21 @@ class Api::V1::UsersController < ApplicationController
 		user_json = UserSerializer.new(@user)
 		render json: user_json
 	end
+
+	def create
+		@user = User.new(user_params)
+		# byebug
+		if @user.save
+			session[:user] = @user.id
+			render json: UserSerializer.new(@user), status: :created
+		else
+			render json: @user.errors, status: :unprocessable_entity
+		end
+	end
+
+	private
+
+	def user_params
+		params.require(:user).permit(:username, :password)
+	end
 end
