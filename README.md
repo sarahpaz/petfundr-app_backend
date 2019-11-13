@@ -9,6 +9,7 @@ Rails API backend for Petfundr web application.
 1. Fork and clone the [PetFundr Backend](https://github.com/sarahpaz/petfundr-app_backend) repo onto your computer.
 2. In your terminal, cd to the petfundr-app_backend folder. Run `bundle install` to load the Ruby gems and dependencies.
 3. This web application has seed data added, be sure to run `rake db:migrate` and `rake db:seed` if you would like to test with the provided seed data. Data can be found in the db folder (seeds.rb).
+4. Run `rails s` in your terminal to start the backend Rails server.
 
 ### Frontend
 
