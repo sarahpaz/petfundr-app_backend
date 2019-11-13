@@ -78,13 +78,16 @@ Donation:
 
 ### Nov 12, 2019
 
+- [x] Pet show page
+- [x] Complete README
+
+### Nov 13, 2019
+
 - [ ] Replace pet images with realitic images
 - [ ] User show page
-- [ ] Pet show page
 - [ ] Final styling
-- [x] Complete README
 - [ ] Video walkthrough
-- [ ] Fix routes (Logout)
+- [x] Fix routes (Logout)
 
 ### Stretch Goals
 
