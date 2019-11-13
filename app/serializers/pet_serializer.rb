@@ -12,5 +12,11 @@ class PetSerializer
 			}
 		end
 	end
+
+	attribute :owner do |pet|
+		{
+			username: pet.user.username
+		}
+	end
 end
 
