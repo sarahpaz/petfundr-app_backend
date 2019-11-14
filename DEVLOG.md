@@ -83,15 +83,15 @@ Donation:
 
 ### Nov 13, 2019
 
-- [ ] Replace pet images with realitic images
+- [x] Replace pet images with realitic images
 - [ ] User show page
-- [ ] Final styling
+- [x] Style pet page
 - [ ] Video walkthrough
 - [x] Fix routes (Logout)
 
 ### Stretch Goals
 
+- [ ] Donation functionality / Form
 - [ ] About page
   - [ ] Route
   - [ ] Component
-- [ ] Donation functionality / Form
