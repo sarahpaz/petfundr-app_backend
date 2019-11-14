@@ -84,14 +84,16 @@ Donation:
 ### Nov 13, 2019
 
 - [x] Replace pet images with realitic images
-- [ ] User show page
-- [x] Style pet page
-- [ ] Video walkthrough
 - [x] Fix routes (Logout)
+
+### Nov 14, 2019
+
+- [ ] User show page
+- [ ] Style pet page / User show page
+- [ ] Fix currentUser nested attributes (login vs refresh)
+- [ ] Video walkthrough
 
 ### Stretch Goals
 
 - [ ] Donation functionality / Form
 - [ ] About page
-  - [ ] Route
-  - [ ] Component
