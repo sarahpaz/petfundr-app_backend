@@ -4,6 +4,7 @@ class Api::V1::SessionsController < ApplicationController
 		@user = User.find_by(username: params[:username])
 		if @user && @user.authenticate(params[:password])
 			session[:user_id] = @user.id
+			# user_json = UserSerializer.new(@user) #* Serialize on login? 
 			render json: @user
 		else
 			render json: {
