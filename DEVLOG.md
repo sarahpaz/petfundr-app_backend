@@ -89,13 +89,12 @@ Donation:
 ### Nov 14, 2019
 
 - [x] Remove users from store after logout
+- [x] Pet show page
 - [ ] Donation functionality / Form
 - [ ] Video walkthrough
-- [ ] Add labels to form inputs (accessibility)
 
 ### Stretch Goals
 
 - [ ] Add a pet functionality
 - [ ] User show page
 - [ ] About page
-- [ ] Pet show page (maybe?)
