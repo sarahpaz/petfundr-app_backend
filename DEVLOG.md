@@ -88,12 +88,15 @@ Donation:
 
 ### Nov 14, 2019
 
-- [ ] User show page
-- [ ] Style pet page / User show page
-- [ ] Fix currentUser nested attributes (login vs refresh)
+- [x] Remove users from store after logout
+- [ ] Display pets on homepage navbar
+- [ ] Donation functionality / Form
 - [ ] Video walkthrough
+- [ ] Add labels to form inputs (accessibility)
 
 ### Stretch Goals
 
-- [ ] Donation functionality / Form
+- [ ] Add a pet functionality
+- [ ] User show page
 - [ ] About page
+- [ ] Pet show page (maybe?)
