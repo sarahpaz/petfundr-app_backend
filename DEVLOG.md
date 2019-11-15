@@ -89,7 +89,6 @@ Donation:
 ### Nov 14, 2019
 
 - [x] Remove users from store after logout
-- [ ] Display pets on homepage navbar
 - [ ] Donation functionality / Form
 - [ ] Video walkthrough
 - [ ] Add labels to form inputs (accessibility)
