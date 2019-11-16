@@ -16,4 +16,23 @@ class Api::V1::DonationsController < ApplicationController
 		donation_json = DonationSerializer.new(@donation)
 		render json: donation_json
 	end
+
+		def create
+		@donation = Donation.new(donation_params)
+		# byebug
+		if @donation.save
+			session[:donation_id] = @donation.id
+			render json: DonationSerializer.new(@donation), status: :created
+		else
+      render json: {
+				error: @donation.errors.full_messages.to_sentence
+			}, status: :unprocessable_entity
+		end
+	end
+
+		private
+
+	def donation_params
+		params.require(:donation).permit(:amount, :message)
+	end
 end
