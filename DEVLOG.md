@@ -91,6 +91,7 @@ Donation:
 - [x] Remove users from store after logout
 - [x] Pet show page
 - [ ] Donation functionality / Form
+- [ ] Donation form styling
 - [ ] Video walkthrough
 
 ### Stretch Goals
