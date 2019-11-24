@@ -90,8 +90,10 @@ Donation:
 
 - [x] Remove users from store after logout
 - [x] Pet show page
+- [x] Donation form styling
+
+### Nov 23, 2019_11_04_231919
 - [ ] Donation functionality / Form
-- [ ] Donation form styling
 - [ ] Video walkthrough
 
 ### Stretch Goals
