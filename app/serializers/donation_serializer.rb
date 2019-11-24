@@ -9,8 +9,8 @@ class DonationSerializer
 	end
 
 	attribute :user do |donation|
-			{
-				id: donation.user_id,
-			}
-		end
+		{
+			id: donation.user_id,
+		}
+	end
 end
