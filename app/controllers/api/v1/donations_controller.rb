@@ -33,6 +33,6 @@ class Api::V1::DonationsController < ApplicationController
 		private
 
 	def donation_params
-		params.require(:donation).permit(:amount, :message, :pet_id)
+		params.require(:donation).permit(:amount, :message, :pet_id, :user_id)
 	end
 end
