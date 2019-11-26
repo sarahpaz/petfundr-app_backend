@@ -98,8 +98,8 @@ Donation:
 
 ### Nov 25, 2019
 - [ ] Clear donation form after donation is complete
-- [ ] Final styling
 - [ ] Progress bar / goal update
+- [ ] Final styling
 
 ### Stretch Goals
 
