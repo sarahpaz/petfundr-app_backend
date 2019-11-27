@@ -97,8 +97,10 @@ Donation:
 - [x] Donation functionality / Form
 
 ### Nov 25, 2019
-- [ ] Clear donation form after donation is complete
+- [x] Clear donation form after donation is complete
+- [ ] Change NewDonation component to a Class component
 - [ ] Progress bar / goal update
+- [ ] Thank you message after donation is complete
 - [ ] Final styling
 
 ### Stretch Goals
