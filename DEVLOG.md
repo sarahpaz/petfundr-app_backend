@@ -111,3 +111,4 @@ Donation:
 - [ ] Add a pet functionality
 - [ ] User show page
 - [ ] About page
+- [ ] Change thank you alert to toast message
