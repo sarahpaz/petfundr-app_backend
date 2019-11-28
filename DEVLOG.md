@@ -98,13 +98,15 @@ Donation:
 
 ### Nov 25, 2019
 - [x] Clear donation form after donation is complete
-- [ ] Change NewDonation component to a Class component
-- [ ] Progress bar / goal update
-- [ ] Thank you message after donation is complete
+
+### Nov 27, 2019
+- [x] Change PetCard to class component
+- [x] Change PetPage to class component
+  - [ ] Progress bar update
+- [ ] Thank you message	
 - [ ] Final styling
 
 ### Stretch Goals
-
 - [ ] Add a pet functionality
 - [ ] User show page
 - [ ] About page
