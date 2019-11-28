@@ -3,8 +3,8 @@
 - [x] The code should be written in ES6 as much as possible
 - [x] Use the create-react-app generator to start your project.
 - [x] Your app should have one HTML page to render your react-redux application
-- [x] There should be 2 container (class) components // App, HomePage, PetCard, PetPage,
-- [x] There should be 5 stateless (functional) components // Login, Signup, Navbar, MainContainer, PetListContainer, NewDonation
+- [x] There should be 2 container (class) components // App, HomePage, PetCard, PetPage, NewDonation
+- [x] There should be 5 stateless (functional) components // Login, Signup, Navbar, MainContainer, PetListContainer
 - [x] There should be 3 routes
 - [x] The Application must make use of react-router and proper RESTful routing (should you choose to use react-router v3 please refer to the appropriate docs; docs for v4 can be found here)
 - [x] Use Redux middleware to respond to and modify state change
