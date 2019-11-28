@@ -102,8 +102,9 @@ Donation:
 ### Nov 27, 2019
 - [x] Change PetCard to class component
 - [x] Change PetPage to class component
+- [x] Change NewDonation to class component
   - [ ] Progress bar update
-- [ ] Thank you message	
+- [x] Thank you message	
 - [ ] Final styling
 
 ### Stretch Goals
