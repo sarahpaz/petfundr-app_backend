@@ -94,21 +94,26 @@ Donation:
 - [x] Video walkthrough
 
 ### Nov 23, 2019
+
 - [x] Donation functionality / Form
 
 ### Nov 25, 2019
+
 - [x] Clear donation form after donation is complete
 
 ### Nov 27, 2019
+
 - [x] Change PetCard to class component
 - [x] Change PetPage to class component
 - [x] Change NewDonation to class component
   - [ ] Progress bar update
-- [x] Thank you message	
-- [ ] Final styling
+- [x] Thank you message
+- [x] Final styling
 
 ### Stretch Goals
+
 - [ ] Add a pet functionality
 - [ ] User show page
 - [ ] About page
+- [ ] Set up progress bar
 - [ ] Change thank you alert to toast message
