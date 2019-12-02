@@ -106,7 +106,7 @@ Donation:
 - [x] Change PetCard to class component
 - [x] Change PetPage to class component
 - [x] Change NewDonation to class component
-  - [ ] Progress bar update
+  - [x] Progress bar update
 - [x] Thank you message
 - [x] Final styling
 
