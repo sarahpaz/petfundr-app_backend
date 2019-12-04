@@ -6,7 +6,7 @@ class Api::V1::DonationsController < ApplicationController
 			render json: 	donations_json
 		else
 			render json: {
-				error: "Login to view your donations"
+				error: "Login to view your donations."
 			}
 		end
 	end
